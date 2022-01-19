@@ -31,7 +31,6 @@ namespace Stream_writer
                 Console.WriteLine(e.Message);
             }
             Console.WriteLine("Файл успешно создан");
-            Console.WriteLine("Тю ^^ ");
             Console.ReadKey();
         }
     }
